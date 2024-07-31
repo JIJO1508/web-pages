@@ -191,7 +191,7 @@ h5{
 }
 #gifts{
     float: left;
-    width: 50%;
+    width: 40%;
 }
 #title{
   padding-top: 50px;
@@ -217,9 +217,9 @@ h5{
     padding-right: 90px;
 }
 .foot{
-     font-size: larger;
+     font-size:medium;
      color: #fff;
-     line-height: 50px; 
+     line-height: 40px; 
      padding-right: 60px;
      border-bottom: 1px solid #fff;
 }
